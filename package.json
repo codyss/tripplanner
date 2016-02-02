@@ -1,0 +1,16 @@
+{
+  "name": "trip-planner-start",
+  "version": "1.0.0",
+  "description": "trip planning app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.2.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7"
+  }
+}
